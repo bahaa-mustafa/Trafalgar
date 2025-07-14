@@ -75,10 +75,9 @@ body{
 }
 .right{
     flex-direction: column;
-    ma
 }
 .left{
-    flex;
+    flex-direction: column;
 }
 .body1{
     flex-direction: row;
