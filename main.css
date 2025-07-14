@@ -12,7 +12,7 @@
 body{
     font-family: "Mulish", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -78,7 +78,7 @@ body{
     ma
 }
 .left{
-    flex-direction: column;
+    flex;
 }
 .body1{
     flex-direction: row;
